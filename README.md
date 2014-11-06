@@ -54,5 +54,5 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 ##Development Tools
-[Snap](http://snapsvg.io/)
+[Snap](http://snapsvg.io/)  
 [Support](http://caniuse.com/#search=svg )

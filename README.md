@@ -11,13 +11,14 @@ Feel free to submit a pull request if you have some links/resources to add.
 [Videos](#videos)  
 [General Topics](#general-topics)  
 [Introductions/Beginning SVG](#introductions)   
+[Best Practices/Style Guides](#Best Practices)  
 [Multipart Articles](#multipart-articles)  
 [Demos](#demos)  
 [Development Tools](#development-tools)  
+[SVG spec](#SVG spec)  
 
 
 # Blogs
-
 - [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)
 - [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
 
@@ -42,8 +43,16 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 ## Introductions
 - [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
-- [SVG 1.1Spec](http://www.w3.org/TR/SVG/)
-- [SVG 2.1 Spec dragft](https://svgwg.org/svg2-draft/)
+- [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/)
+- [SVG, Use it Already](http://dbushell.com/2012/04/03/svg-use-it-already/)
+- [Using SVG](http://css-tricks.com/using-svg/)
+- [A Primer to Front-end SVG Hacking](http://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/)
+
+
+##Best Practices
+- [Dealing with SVG images in mobile browsers](http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/03/08/dealing-with-svg-images-in-mobile-browsers/)
+- [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+- [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 
 
 
@@ -51,6 +60,14 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)
 
 
+
 ##Development Tools
 - [Snap](http://snapsvg.io/)  
-- [Support](http://caniuse.com/#search=svg )
+- [SVGO for optimizing SVG](https://github.com/svg/svgo)
+- [svg.js for manipulating and animating](http://svgjs.com/)
+- [Support](http://caniuse.com/#search=svg)
+
+
+##SVG spec
+- [SVG 1.1Spec](http://www.w3.org/TR/SVG/)
+- [SVG 2.1 Spec dragft](https://svgwg.org/svg2-draft/)

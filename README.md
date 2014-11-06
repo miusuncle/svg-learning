@@ -11,7 +11,6 @@ Feel free to submit a pull request if you have some links/resources to add.
 [Videos](#videos)  
 [General Topics](#general-topics)  
 [Introductions/Beginning SVG](#introductions)   
-[Best Practices/Style Guides](#best-guides)  
 [Multipart Articles](#multipart-articles)  
 [Demos](#demos)  
 [Development Tools](#development-tools)  
@@ -19,8 +18,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 # Blogs
 
-1. [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)
-2. [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
+- [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)
+- [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
 
 
 
@@ -43,10 +42,9 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 ## Introductions
 - [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
+- [SVG 1.1Spec](http://www.w3.org/TR/SVG/)
+- [SVG 2.1 Spec dragft](https://svgwg.org/svg2-draft/)
 
-
-
-##Best Practices/Style Guides
 
 
 ##Multipart Articles

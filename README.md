@@ -61,6 +61,10 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 
+##demos
+- [Image Filters](http://svgjs.com/filter/)
+
+
 ##Development Tools
 - [Snap](http://snapsvg.io/)  
 - [SVGO for optimizing SVG](https://github.com/svg/svgo)

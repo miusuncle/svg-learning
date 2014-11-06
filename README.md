@@ -1,7 +1,8 @@
 svg-learning
 ============
 
-A bunch of links to blog posts, articles, videos, etc for learning svg. Feel free to submit a pull request if you have some links/resources to add.
+A bunch of links to blog posts, articles, videos, etc for learning SVG.   
+Feel free to submit a pull request if you have some links/resources to add.  
 
 
 ### Table of Contents
@@ -9,51 +10,47 @@ A bunch of links to blog posts, articles, videos, etc for learning svg. Feel fre
 [Books](#books)  
 [Videos](#videos)  
 [General Topics](#general-topics)  
-[Introductions/Beginning SVG](#introductions beginning-svg-also-look-at-the-multipart-articles)  
-[Best Practices/Style Guides](#best-practicesstyle-guides)  
+[Introductions/Beginning SVG](#introductions)   
+[Best Practices/Style Guides](#best-guides)  
 [Multipart Articles](#multipart-articles)  
 [Demos](#demos)  
-[Development Tools](#development-tools)
+[Development Tools](#development-tools)  
 
 
 # Blogs
 
 1. [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)
-2. [http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
-3. [svgPocketGuide](http://svgpocketguide.com/book/#section-1)
+2. [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
+
 
 
 ## Books
 1. [SVG Compressed](http://jenkov.com/books/svg/index.html)
+2. [SVG Pocket Guide](http://svgpocketguide.com/book/)  
+3. [SVG Essentials](http://www.amazon.com/SVG-Essentials-J-David-Eisenberg/dp/1449374352/ref=sr_1_1?s=books&ie=UTF8&qid=1415260285&sr=1-1&keywords=svg+essentials)  
 
 
-
-##videos
+## Videos
 1. [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
 
 
 
-##general-topics
-1. [styling-and-animating-svg](http://slides.com/sarasoueidan/)
+## General-topics
+1. [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
 2. [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
 
 
 
-##introductions beginning-svg-also-look-at-the-multipart-articles
+## Introductions
 1. [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
-
 
 
 
 ##Best Practices/Style Guides
 
 
-
 ##Multipart Articles
 http://sarasoueidan.com/articles.html
-
-
-##Demos
 
 
 ##Development Tools

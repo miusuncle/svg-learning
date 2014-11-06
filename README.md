@@ -5,6 +5,7 @@ A bunch of links to blog posts, articles, videos, etc for learning svg. Feel fre
 
 
 ### Table of Contents
+[Blogs](#blogs)
 [Books](#books)
 [Videos](#videos)
 [General Topics](#general-topics)
@@ -14,18 +15,33 @@ A bunch of links to blog posts, articles, videos, etc for learning svg. Feel fre
 [Demos](#demos)
 [Development Tools](#development-tools)
 
+
+# Blogs
+
+1. [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)
+2. [http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
+3. [svgPocketGuide](http://svgpocketguide.com/book/#section-1)
+
+
 ## Books
-http://jenkov.com/books/svg/index.html
+1. [SVG Compressed](http://jenkov.com/books/svg/index.html)
+
+
 
 ##videos
-https://www.youtube.com/watch?v=SeLOt_BRAqc
+1. [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
+
 
 
 ##general-topics
-http://slides.com/sarasoueidan/
-http://razvancaliman.com/fowd-nyc-2014/
+1. [styling-and-animating-svg](http://slides.com/sarasoueidan/)
+2. [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
+
+
 
 ##introductions beginning-svg-also-look-at-the-multipart-articles
+1. [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
+
 
 
 
@@ -39,4 +55,3 @@ http://sarasoueidan.com/articles.html
 
 ##Development Tools
 http://snapsvg.io/
-

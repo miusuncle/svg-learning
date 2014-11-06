@@ -25,24 +25,24 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 ## Books
-1. [SVG Compressed](http://jenkov.com/books/svg/index.html)
-2. [SVG Pocket Guide](http://svgpocketguide.com/book/)  
-3. [SVG Essentials](http://www.amazon.com/SVG-Essentials-J-David-Eisenberg/dp/1449374352/ref=sr_1_1?s=books&ie=UTF8&qid=1415260285&sr=1-1&keywords=svg+essentials)  
+- [SVG Compressed](http://jenkov.com/books/svg/index.html)
+- [SVG Pocket Guide](http://svgpocketguide.com/book/)  
+- [SVG Essentials](http://www.amazon.com/SVG-Essentials-J-David-Eisenberg/dp/1449374352/ref=sr_1_1?s=books&ie=UTF8&qid=1415260285&sr=1-1&keywords=svg+essentials)  
 
 
 ## Videos
-1. [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
+- [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
 
 
 
 ## General-topics
-1. [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
-2. [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
+- [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
+- [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
 
 
 
 ## Introductions
-1. [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
+- [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
 
 
 

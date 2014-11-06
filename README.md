@@ -5,14 +5,14 @@ A bunch of links to blog posts, articles, videos, etc for learning svg. Feel fre
 
 
 ### Table of Contents
-[Blogs](#blogs)
-[Books](#books)
-[Videos](#videos)
-[General Topics](#general-topics)
-[Introductions/Beginning SVG](#introductions beginning-svg-also-look-at-the-multipart-articles)
-[Best Practices/Style Guides](#best-practicesstyle-guides)
-[Multipart Articles](#multipart-articles)
-[Demos](#demos)
+[Blogs](#blogs)  
+[Books](#books)  
+[Videos](#videos)  
+[General Topics](#general-topics)  
+[Introductions/Beginning SVG](#introductions beginning-svg-also-look-at-the-multipart-articles)  
+[Best Practices/Style Guides](#best-practicesstyle-guides)  
+[Multipart Articles](#multipart-articles)  
+[Demos](#demos)  
 [Development Tools](#development-tools)
 
 
@@ -51,6 +51,9 @@ A bunch of links to blog posts, articles, videos, etc for learning svg. Feel fre
 
 ##Multipart Articles
 http://sarasoueidan.com/articles.html
+
+
+##Demos
 
 
 ##Development Tools

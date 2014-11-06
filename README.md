@@ -50,8 +50,9 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 ##Multipart Articles
-http://sarasoueidan.com/articles.html
+[Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)
 
 
 ##Development Tools
-http://snapsvg.io/
+[Snap](http://snapsvg.io/)
+[Support](http://caniuse.com/#search=svg )

@@ -61,7 +61,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 
-##demos
+##Demos
 - [Image Filters](http://svgjs.com/filter/)
 
 

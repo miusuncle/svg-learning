@@ -69,7 +69,9 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Snap](http://snapsvg.io/)  
 - [SVGO for optimizing SVG](https://github.com/svg/svgo)
 - [svg.js for manipulating and animating](http://svgjs.com/)
-- [Support](http://caniuse.com/#search=svg)
+- [Support](http://caniuse.com/#search=svg)  
+- [svg-linearize](https://github.com/substack/svg-linearize)  
+- [svg-sprite](https://github.com/jkphl/svg-sprite)  
 
 
 ##SVG spec

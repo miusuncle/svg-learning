@@ -45,6 +45,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 ## Introductions
 - [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
+- [SVGBasics](http://www.svgbasics.com/)
 - [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/)
 - [SVG, Use it Already](http://dbushell.com/2012/04/03/svg-use-it-already/)
 - [Using SVG](http://css-tricks.com/using-svg/)

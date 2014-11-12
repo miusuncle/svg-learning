@@ -49,6 +49,9 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [SVG, Use it Already](http://dbushell.com/2012/04/03/svg-use-it-already/)
 - [Using SVG](http://css-tricks.com/using-svg/)
 - [A Primer to Front-end SVG Hacking](http://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/)
+- [w3schools Docs](http://www.w3schools.com/svg/)
+- [SVG - MSDN](http://msdn.microsoft.com/en-us/library/ie/gg589525(v=vs.85).aspx)
+- [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 
 ##Best Practices

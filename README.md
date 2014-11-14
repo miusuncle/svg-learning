@@ -77,7 +77,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [svg.js for manipulating and animating](http://svgjs.com/)
 - [Support](http://caniuse.com/#search=svg)  
 - [svg-linearize](https://github.com/substack/svg-linearize)  
-- [svg-sprite](https://github.com/jkphl/svg-sprite)  
+- [svg-sprite](https://github.com/jkphl/svg-sprite)    
+- [svg-now](https://github.com/davidderaedt/SVG-NOW)  
 
 
 ##SVG spec

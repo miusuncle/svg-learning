@@ -80,6 +80,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [svg-linearize](https://github.com/substack/svg-linearize)  
 - [svg-sprite](https://github.com/jkphl/svg-sprite)    
 - [svg-now](https://github.com/davidderaedt/SVG-NOW)  
+- [brackets svg code hints](https://github.com/sprintr/brackets-svg-code-hints)
 
 
 ##SVG spec

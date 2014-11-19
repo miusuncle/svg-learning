@@ -23,6 +23,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [A Guide to SVG Animations (SMIL)简体中文](https://github.com/fengshuo/svg-animation/blob/master/README.md)  
 - [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
 - [How SVG Shape Morphing Works](http://css-tricks.com/svg-shape-morphing-works/)  
+- [SVG Animation and CSS Transforms: A Complicated Love Story](http://css-tricks.com/svg-animation-on-css-transforms/)
 
 
 

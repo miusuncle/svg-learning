@@ -159,6 +159,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [SVG Animation with SMIL](http://codepen.io/collection/chefj/)  
 - [SVG Pen](http://codepen.io/fengshuo2013/pen/ByapaV)  
 - [SVG Clipping Mask Animation](http://codepen.io/jhoward/pen/jyeFr)  
+- [Lazy-Line-Painter](https://github.com/camoconnell/lazy-line-painter)  
+- [WalkWay](https://github.com/ConnorAtherton/walkway)  
 
 
 ##Development Tools
@@ -194,7 +196,10 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Grunt-svg-compactor](https://www.npmjs.org/package/grunt-svg-compactor)
 - [Grunt-webfont](https://www.npmjs.org/package/grunt-webfont)
 - [SVG fallback](https://www.npmjs.org/package/svg_fallback)  
-- [SVG Edit](https://code.google.com/p/svg-edit/)  
+- [SVG Edit](https://code.google.com/p/svg-edit/)   
+- [SVG Circus](https://github.com/alexk111/SVG-Circus)  
+- [Gulp-svgstore](https://github.com/w0rm/gulp-svgstore)  
+- [SVG-linearize](https://github.com/substack/svg-linearize)  
 - [Grunt-svg2png](https://www.npmjs.org/package/grunt-svg2png)
 - [Grunt-svg-sprite](https://www.npmjs.org/package/grunt-svg-sprite)
 - [Grunt-svgstore](https://github.com/FWeinb/grunt-svgstore)

@@ -10,7 +10,7 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 [使用经验](#使用经验)  
 [视频](#视频)  
 [书籍 Books](#书籍 Books)  
-[SVG炫酷效果](#SVG效果)  
+[SVG效果](#SVG效果)  
 [SVG开发工具](#SVG开发工具)  
 [SVG标准规范](#SVG标准规范)  
 
@@ -26,7 +26,7 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 - [SVG基础](http://www.svgbasics.com/)
 - [怎样添加SVG到你的页面](http://www.sitepoint.com/add-svg-to-web-page/)
 - [SVG使用场景](http://dbushell.com/2012/04/03/svg-use-it-already/)
-- [开始是使用SVG](http://css-tricks.com/using-svg/)
+- [开始使用SVG](http://css-tricks.com/using-svg/)
 - [入门到前端SVG黑客](http://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/)
 - [w3schools SVG教程](http://www.w3cschool.cn/index-42.html)
 - [MSDN SVG教程](http://msdn.microsoft.com/library/ie/gg589525(v=vs.85).aspx/)
@@ -52,7 +52,7 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 - [SVG Essentials](http://www.amazon.com/SVG-Essentials-J-David-Eisenberg/dp/1449374352/ref=sr_1_1?s=books&ie=UTF8&qid=1415260285&sr=1-1&keywords=svg+essentials)
 
 
-##SVG炫酷效果
+##SVG效果
 - [图片滤镜](http://svgjs.com/filter/)
 
 ## 视频

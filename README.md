@@ -161,6 +161,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [SVG Clipping Mask Animation](http://codepen.io/jhoward/pen/jyeFr)  
 - [Lazy-Line-Painter](https://github.com/camoconnell/lazy-line-painter)  
 - [WalkWay](https://github.com/ConnorAtherton/walkway)  
+- [KeepBritainTidy](http://howcleanisengland.keepbritaintidy.org/#)
 
 
 ##Development Tools

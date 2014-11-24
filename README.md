@@ -10,7 +10,6 @@ Feel free to submit a pull request if you have some links/resources to add.
 [Books](#books)  
 [Videos](#videos)  
 [Introductions/Beginning SVG](#introductions)   
-[Best Practices/Style Guides](#Best Practices)  
 [Demos](#demos)  
 [Development Tools](#development-tools)  
 [SVG spec](#SVG spec)  
@@ -113,7 +112,10 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Describler make your SVG accessible](http://describler.com/)  
 - [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
 - [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)  
-- [Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)
+- [Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)  
+- - [Dealing with SVG images in mobile browsers](http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/03/08/dealing-with-svg-images-in-mobile-browsers/)
+- [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+- [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 
 
 
@@ -150,10 +152,6 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Animated Line Drawing SVG](http://jakearchibald.com/2013/animated-line-drawing-svg/)
 
 
-##Best Practices
-- [Dealing with SVG images in mobile browsers](http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/03/08/dealing-with-svg-images-in-mobile-browsers/)
-- [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
-- [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 
 
 

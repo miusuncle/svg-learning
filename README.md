@@ -9,7 +9,6 @@ Feel free to submit a pull request if you have some links/resources to add.
 [Blogs](#blogs)  
 [Books](#books)  
 [Videos](#videos)  
-[General Topics](#general-topics)  
 [Introductions/Beginning SVG](#introductions)   
 [Best Practices/Style Guides](#Best Practices)  
 [Multipart Articles](#multipart-articles)  
@@ -20,7 +19,6 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 # Blogs
 - [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)  
-- [A Guide to SVG Animations (SMIL)简体中文](https://github.com/fengshuo/svg-animation/blob/master/README.md)  
 - [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
 - [How SVG Shape Morphing Works](http://css-tricks.com/svg-shape-morphing-works/)  
 - [SVG Animation and CSS Transforms: A Complicated Love Story](http://css-tricks.com/svg-animation-on-css-transforms/)  
@@ -113,8 +111,10 @@ Feel free to submit a pull request if you have some links/resources to add.
 * [Current State of Authoring Accessible SVG](http://schepers.cc/authoring-accessible-svg)
 * [Using ARIA to enhance SVG accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 * [Great Guide for accessibility](http://a2g.faw.uni-linz.ac.at:8080/svg/jsp/guide.jsp)
-* [Describler make your SVG accessible](http://describler.com/)
-
+* [Describler make your SVG accessible](http://describler.com/)  
+- [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
+- [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)  
+- [Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)
 
 
 
@@ -131,13 +131,10 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 ## Videos
-- [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
-
-
-
-## General-topics
-- [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
-- [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
+- [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)  
+- [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)  
+- [An Optimized SVG Workflow](https://www.youtube.com/watch?v=iVzW3XuOm7E)  
+- [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://www.youtube.com/watch?v=XBdbgD2BaEI)
 
 
 
@@ -161,13 +158,11 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 
-##Multipart Articles
-- [Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)
-
-
-
 ##Demos
-- [Image Filters](http://svgjs.com/filter/)
+- [Image Filters](http://svgjs.com/filter/)  
+- [SVG Animation with SMIL](http://codepen.io/collection/chefj/)  
+- [SVG Pen](http://codepen.io/fengshuo2013/pen/ByapaV)  
+- [SVG Clipping Mask Animation](http://codepen.io/jhoward/pen/jyeFr)  
 
 
 ##Development Tools

@@ -5,21 +5,23 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 
 
 ### Table of Contents
-[视频](#视频)
-[入门指南](#入门指南)
-[使用经验](#使用经验)
-[一般主题General-topics](#一般主题General-topics)
-[书籍 Books](#书籍 Books)
-[SVG炫酷效果](#SVG炫酷效果)
-[SVG开发工具](#SVG开发工具)
-[SVG标准规范](#SVG标准规范)
 
+[入门指南](#入门指南)  
+[使用经验](#使用经验)  
+[视频](#视频)  
+[书籍 Books](#书籍 Books)  
+[SVG炫酷效果](#SVG效果)  
+[SVG开发工具](#SVG开发工具)  
+[SVG标准规范](#SVG标准规范)  
 
-## 视频
-- [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
 
 
 ## 入门指南
+- [SVG特征、支持以及一些实际使用问题](http://www.zhangxinxu.com/wordpress/2012/08/svg-feature-support-bugs/)  
+- [SVG Sprite技术介绍](http://www.zhangxinxu.com/wordpress/2014/07/introduce-svg-sprite-technology/)  
+- [SVG实战学习](http://www.zhangxinxu.com/wordpress/2014/01/snap-svg-study-demo-docs/)  
+- [一些SVG向下兼容优雅降级技术](http://www.zhangxinxu.com/wordpress/2013/09/svg-fallbacks/)  
+- [超级强大的SVG SMIL animation动画详解](http://www.zhangxinxu.com/wordpress/2014/08/so-powerful-svg-smil-animation/)
 - [SVG教程](http://tutorials.jenkov.com/svg/index.html)
 - [SVG基础](http://www.svgbasics.com/)
 - [怎样添加SVG到你的页面](http://www.sitepoint.com/add-svg-to-web-page/)
@@ -29,7 +31,9 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 - [w3schools SVG教程](http://www.w3cschool.cn/index-42.html)
 - [MSDN SVG教程](http://msdn.microsoft.com/library/ie/gg589525(v=vs.85).aspx/)
 - [MDN SVG教程](https://developer.mozilla.org/en-US/docs/Web/SVG)
-- [SVG线描动画](http://jakearchibald.com/2013/animated-line-drawing-svg/)
+- [SVG线描动画](http://jakearchibald.com/2013/animated-line-drawing-svg/)  
+- [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
+- [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
 
 
 ## 使用经验
@@ -42,11 +46,6 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 - [SVG动画和css变换(Transforms)的爱情故事](http://css-tricks.com/svg-animation-on-css-transforms/)
 
 
-## 一般主题General-topics
-- [Styling-and-animating-svg](http://slides.com/sarasoueidan/)
-- [Styling & Animating Scalable Vector Graphics with CSS](http://razvancaliman.com/fowd-nyc-2014/)
-
-
 ## 书籍 Books
 - [SVG Compressed](http://jenkov.com/books/svg/index.html)
 - [SVG Pocket Guide](http://svgpocketguide.com/book/)
@@ -55,6 +54,9 @@ svg-learning的中文分支版本，提供关于SVG的视频、入门、应用�
 
 ##SVG炫酷效果
 - [图片滤镜](http://svgjs.com/filter/)
+
+## 视频
+- [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc)
 
 
 ## SVG开发工具

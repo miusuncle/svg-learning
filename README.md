@@ -196,7 +196,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
 - [Grunt-svg-compactor](https://www.npmjs.org/package/grunt-svg-compactor)
 - [Grunt-webfont](https://www.npmjs.org/package/grunt-webfont)
-- [Svg fallback](https://www.npmjs.org/package/svg_fallback)
+- [SVG fallback](https://www.npmjs.org/package/svg_fallback)  
+- [SVG Edit](https://code.google.com/p/svg-edit/)  
 - [Grunt-svg2png](https://www.npmjs.org/package/grunt-svg2png)
 - [Grunt-svg-sprite](https://www.npmjs.org/package/grunt-svg-sprite)
 - [Grunt-svgstore](https://github.com/FWeinb/grunt-svgstore)
@@ -211,5 +212,5 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
 
 ##SVG spec
-- [SVG 1.1Spec](http://www.w3.org/TR/SVG/)
-- [SVG 2.1 Spec draft](https://svgwg.org/svg2-draft/)
+- [SVG 1.1 Spec](http://www.w3.org/TR/SVG/)
+- [SVG 2.1 Spec Draft](https://svgwg.org/svg2-draft/)

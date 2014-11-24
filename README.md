@@ -16,6 +16,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 # Blogs
+- [The once and future svg](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 - [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)  
 - [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)  
 - [How SVG Shape Morphing Works](http://css-tricks.com/svg-shape-morphing-works/)  

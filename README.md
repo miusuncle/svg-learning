@@ -164,7 +164,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [WalkWay](https://github.com/ConnorAtherton/walkway)  
 - [KeepBritainTidy](http://howcleanisengland.keepbritaintidy.org/#)  
 - [Stag](http://codepen.io/betravis/pen/yyLYYd)  
-- [Breathing with SVG](http://codepen.io/thebabydino/full/QwwYqM/)
+- [Breathing with SVG](http://codepen.io/thebabydino/full/QwwYqM/)  
+- [Run,run, Ruuun!](http://codepen.io/CyrilLevallois/pen/JbrfI/)
 
 
 ##Development Tools

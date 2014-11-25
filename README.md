@@ -116,8 +116,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Sarasoueidan's Articles](http://sarasoueidan.com/articles.html)  
 - - [Dealing with SVG images in mobile browsers](http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/03/08/dealing-with-svg-images-in-mobile-browsers/)
 - [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
-- [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
-
+- [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)  
+- [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
 
 
 ## Books

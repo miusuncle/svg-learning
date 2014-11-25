@@ -6,15 +6,27 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 ### Table of Contents
+[Introductions/Beginning SVG](#introductions)   
 [Blogs](#blogs)  
 [Books](#books)  
 [Videos](#videos)  
-[Introductions/Beginning SVG](#introductions)   
 [Demos](#demos)  
 [Development Tools](#development-tools)  
 [SVG spec](#SVG spec)  
 
 
+## Introductions
+- [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
+- [SVGBasics](http://www.svgbasics.com/)
+- [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/)
+- [SVG, Use it Already](http://dbushell.com/2012/04/03/svg-use-it-already/)
+- [Using SVG](http://css-tricks.com/using-svg/)
+- [A Primer to Front-end SVG Hacking](http://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/)
+- [w3schools Docs](http://www.w3schools.com/svg/)
+- [SVG - MSDN](http://msdn.microsoft.com/en-us/library/ie/gg589525(v=vs.85).aspx)
+- [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)  
+- [Animated Line Drawing SVG](http://jakearchibald.com/2013/animated-line-drawing-svg/)
+- 
 # Blogs
 - [The once and future svg](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 - [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)  
@@ -117,7 +129,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - - [Dealing with SVG images in mobile browsers](http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/03/08/dealing-with-svg-images-in-mobile-browsers/)
 - [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 - [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)  
-- [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
+- [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)  
+- [Using Aria enhance svg accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 
 
 ## Books
@@ -139,17 +152,6 @@ Feel free to submit a pull request if you have some links/resources to add.
 
 
 
-## Introductions
-- [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
-- [SVGBasics](http://www.svgbasics.com/)
-- [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/)
-- [SVG, Use it Already](http://dbushell.com/2012/04/03/svg-use-it-already/)
-- [Using SVG](http://css-tricks.com/using-svg/)
-- [A Primer to Front-end SVG Hacking](http://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/)
-- [w3schools Docs](http://www.w3schools.com/svg/)
-- [SVG - MSDN](http://msdn.microsoft.com/en-us/library/ie/gg589525(v=vs.85).aspx)
-- [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)  
-- [Animated Line Drawing SVG](http://jakearchibald.com/2013/animated-line-drawing-svg/)
 
 
 

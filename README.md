@@ -167,7 +167,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [KeepBritainTidy](http://howcleanisengland.keepbritaintidy.org/#)  
 - [Stag](http://codepen.io/betravis/pen/yyLYYd)  
 - [Breathing with SVG](http://codepen.io/thebabydino/full/QwwYqM/)  
-- [Run,run, Ruuun!](http://codepen.io/CyrilLevallois/pen/JbrfI/)
+- [Run,run, Ruuun!](http://codepen.io/CyrilLevallois/pen/JbrfI/)  
+- [Clock](http://codepen.io/sol0mka/pen/0bf400db555f7c9701387b73d25c80a7)
 
 
 ##Development Tools

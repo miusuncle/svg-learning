@@ -130,7 +130,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 - [Resolution Independence With SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)  
 - [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)  
-- [Using Aria enhance svg accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
+- [Using Aria enhance svg accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)  
+- [Customizable svg icons css variables](http://codepen.io/AmeliaBR/thoughts/customizable-svg-icons-css-variables)
 
 
 ## Books

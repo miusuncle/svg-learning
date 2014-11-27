@@ -170,8 +170,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Breathing with SVG](http://codepen.io/thebabydino/full/QwwYqM/)  
 - [Run,run, Ruuun!](http://codepen.io/CyrilLevallois/pen/JbrfI/)  
 - [Clock](http://codepen.io/sol0mka/pen/0bf400db555f7c9701387b73d25c80a7)  
-- [SVG Zoom Effect](http://www.pencilscoop.com/demos/SVG_Zoom_Effect/)
-
+- [SVG Zoom Effect](http://www.pencilscoop.com/demos/SVG_Zoom_Effect/)  
+- [Cat with Mask](http://codepen.io/fengshuo2013/pen/vEOaJy?editors=100)
 
 ##Development Tools
 - [Snap](http://snapsvg.io/)  

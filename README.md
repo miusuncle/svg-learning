@@ -132,7 +132,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)  
 - [Using Aria enhance svg accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)  
 - [Customizable svg icons css variables](http://codepen.io/AmeliaBR/thoughts/customizable-svg-icons-css-variables)
-
+- [The ultimate SVG guide](https://psdtowp.net/svg.html)
 
 ## Books
 - [SVG Compressed](http://jenkov.com/books/svg/index.html)

@@ -221,7 +221,8 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [Gulp-rsvg](https://www.npmjs.org/package/gulp-rsvg/)
 - [Gulp-svg-icons](https://www.npmjs.org/package/gulp-svg-icons/)
 - [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
-- [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
+- [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)  
+- [deSVG](http://benhowdle.im/deSVG/)
 
 ##SVG spec
 - [SVG 1.1 Spec](http://www.w3.org/TR/SVG/)

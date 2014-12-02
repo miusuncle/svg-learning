@@ -26,7 +26,7 @@ Feel free to submit a pull request if you have some links/resources to add.
 - [SVG - MSDN](http://msdn.microsoft.com/en-us/library/ie/gg589525(v=vs.85).aspx)
 - [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)  
 - [Animated Line Drawing SVG](http://jakearchibald.com/2013/animated-line-drawing-svg/)
-- 
+
 # Blogs
 - [The once and future svg](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 - [A Guide to SVG Animations (SMIL)](http://css-tricks.com/guide-svg-animations-smil/)  
